@@ -1,0 +1,84 @@
+name: "🐛 Bug Report"
+description: Segnala un bug in DomenicoOS
+title: "[BUG] "
+labels: ["bug"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie per aver segnalato un bug in **DomenicoOS**! 🚀  
+        Compila tutte le sezioni qui sotto per aiutarci a risolverlo velocemente.
+
+  - type: input
+    id: version
+    attributes:
+      label: Versione di DomenicoOS
+      description: Quale versione stai usando? (es. 1 Refine - build 1000)
+      placeholder: "es. 1 Refine - build 1000"
+    validations:
+      required: true
+
+  - type: input
+    id: scratch_version
+    attributes:
+      label: Versione di Scratch
+      description: Versione di Scratch usata
+      placeholder: "es. 3.29.1"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Sistema operativo
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - Altro
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrizione del bug
+      description: Spiega cosa succede
+      placeholder: "Descrivi il problema..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Come riprodurre il bug
+      description: Passaggi per far succedere il problema
+      placeholder: |
+        1. Apri...
+        2. Clicca...
+        3. Succede...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamento atteso
+      description: Cosa dovrebbe succedere invece
+      placeholder: "Cosa ti aspettavi?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshot / Video
+      description: Se possibile, aggiungi immagini o video
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Informazioni aggiuntive
+      description: Qualsiasi altra cosa utile
