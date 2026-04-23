@@ -1,0 +1,19 @@
+# 📦 .gitattributes per DomenicoOS
+
+# Questo file serve a controllare cosa viene incluso/escluso
+# quando si scarica il progetto come archivio (ZIP/TAR) da GitHub.
+
+# 🚫 Escludi il file .gitattributes stesso dall'archivio
+.gitattributes export-ignore
+
+# 🚫 Escludi il README (utile su GitHub, ma non necessario nel pacchetto)
+README.md export-ignore
+
+# 🚫 Escludi tutta la cartella .github
+# Contiene template, workflow e configurazioni utili solo per lo sviluppo
+.github/ export-ignore
+
+# ✅ Risultato:
+# Quando qualcuno scarica il progetto come ZIP,
+# riceverà solo i file essenziali per usare DomenicoOS
+# senza file "da sviluppatore"
