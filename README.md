@@ -2,6 +2,16 @@
 
 # Tabbella dei Contenuti
 - [Un sistema operativo... in Scratch!](#un-sistema-operativo-in-scratch)
+- [Requisiti](#requisiti)
+- [Installazione](#installazione)
+- [Nome file](#nome-file)
+- [Avvio](#avvio)
+- [Chiusura](#chiusura)
+- [Terminali](#terminali)
+  - [T-Prompt](#t-prompt)
+  - [E-Shell](#e-shell)
+- [Versioni](#versioni)
+- [Note](#note)
 
 ## Un sistema operativo… in Scratch!
 
