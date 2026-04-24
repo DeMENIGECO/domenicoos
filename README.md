@@ -1,25 +1,28 @@
-# 🖥️ DomenicoOS
+# DomenicoOS
 
-## 🚀 Un sistema operativo… in Scratch!
+# Tabbella dei Contenuti
+- [Un sistema operativo... in Scratch!](#un-sistema-operativo-in-scratch)
+
+## Un sistema operativo… in Scratch!
 
 **DomenicoOS** è un sistema operativo simulato sviluppato interamente in **Scratch**.  
 Sì, hai capito bene 😄
 
 ---
 
-## 📋 Requisiti
+## Requisiti
 - Scratch 3.20.0 o successivo
 - Un PC
 
 ---
 
-## 📦 Installazione
+## Installazione
 
 1. Vai nella repository
 2. Apri la cartella della versione (es: v1)
 3. Scarica un file `.sb3` seguendo la guida qua sotto dei nomi file
 
-### 🔍 Nome file
+### Nome file
 
 ```Files
 DomenicoOS_1_Refine_1000.sb3
@@ -35,7 +38,7 @@ DomenicoOS_1_Refine_1000.sb3
 
 ---
 
-## ▶️ Avvio
+## Avvio
 
 - Apri il file `.sb3` con Scratch
 - Metti schermo intero
@@ -43,7 +46,7 @@ DomenicoOS_1_Refine_1000.sb3
 
 ---
 
-## ❌ Chiusura
+## Chiusura
 
 - Premi il tasto **S** (Nella barra delle applicazioni)
 - Clicca il menu
@@ -51,26 +54,26 @@ DomenicoOS_1_Refine_1000.sb3
 
 ---
 
-## 💻 Terminali
+## Terminali
 
-### 🟢 T-Prompt
+### T-Prompt
 Terminale principale (core del sistema).  
 Senza di esso, il sistema crasha.
 
-### 🔴 E-Shell
+### E-Shell
 Terminale avanzato con privilegi di amministratore.
 
 ---
 
-## 📊 Versioni
+## Versioni
 
-| Nome | Numero | Data | Build | Stato |
+| Nome | Numero | Data | Ultima Build | Stato |
 |------|--------|------|-------|-------|
 | Refine | 1 | 23/04/2026 | 1000 | ✅ Supportato |
 
 ---
 
-## 🧠 Note
+## Note
 
 - Progetto creativo
 - Basato su Scratch
