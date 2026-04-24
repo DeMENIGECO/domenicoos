@@ -13,6 +13,8 @@
 - [Versioni](#versioni)
 - [Note](#note)
 
+---
+
 ## Un sistema operativo… in Scratch!
 
 **DomenicoOS** è un sistema operativo simulato sviluppato interamente in **Scratch**.  
