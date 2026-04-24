@@ -11,8 +11,6 @@ Sì, hai capito bene 😄
 - Scratch 3.20.0 o successivo
 - Un PC
 
-🔄 Nuove versioni vengono rilasciate ogni mese.
-
 ---
 
 ## 📦 Installazione
@@ -76,5 +74,4 @@ Terminale avanzato con privilegi di amministratore.
 
 - Progetto creativo
 - Basato su Scratch
-- Aggiornamenti mensili
 
